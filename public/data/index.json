@@ -1,0 +1,121 @@
+[
+  {
+    "id": "r01",
+    "round": 1,
+    "name": "澳大利亚",
+    "circuit": "Melbourne",
+    "ref": "VER 第43圈 1:22.091"
+  },
+  {
+    "id": "r02",
+    "round": 2,
+    "name": "中国",
+    "circuit": "Shanghai",
+    "ref": "ANT 第52圈 1:35.275"
+  },
+  {
+    "id": "r03",
+    "round": 3,
+    "name": "日本",
+    "circuit": "Suzuka",
+    "ref": "ANT 第49圈 1:32.432"
+  },
+  {
+    "id": "r04",
+    "round": 4,
+    "name": "迈阿密",
+    "circuit": "Miami",
+    "ref": "NOR 第35圈 1:31.869"
+  },
+  {
+    "id": "r05",
+    "round": 5,
+    "name": "加拿大",
+    "circuit": "Montreal",
+    "ref": "ANT 第68圈 1:14.210"
+  },
+  {
+    "id": "r06",
+    "round": 6,
+    "name": "摩纳哥",
+    "circuit": "Monte Carlo",
+    "ref": "ANT 第76圈 1:13.481"
+  },
+  {
+    "id": "r07",
+    "round": 7,
+    "name": "巴塞罗那",
+    "circuit": "Catalunya",
+    "ref": "HAM 第44圈 1:20.122"
+  },
+  {
+    "id": "r08",
+    "round": 8,
+    "name": "奥地利",
+    "circuit": "Spielberg",
+    "ref": "ANT 第59圈 1:10.374"
+  },
+  {
+    "id": "r09",
+    "round": 9,
+    "name": "英国",
+    "circuit": "Silverstone",
+    "ref": "ANT 第37圈 1:31.777"
+  },
+  {
+    "id": "r10",
+    "round": 10,
+    "name": "比利时",
+    "circuit": "Spa-Francorchamps",
+    "ref": "NOR 第44圈 1:48.890"
+  },
+  {
+    "id": "r11",
+    "round": 11,
+    "name": "匈牙利",
+    "circuit": "Hungaroring",
+    "ref": "LEC 第58圈 1:22.000"
+  },
+  {
+    "id": "r12",
+    "round": 12,
+    "name": "荷兰",
+    "circuit": "Zandvoort",
+    "ref": "LEC 第60圈 1:14.230"
+  },
+  {
+    "id": "r13",
+    "round": 13,
+    "name": "意大利",
+    "circuit": "Monza",
+    "ref": "ANT 第53圈 1:23.504"
+  },
+  {
+    "id": "r14",
+    "round": 14,
+    "name": "马德里",
+    "circuit": "Madring",
+    "ref": "RUS 第49圈 1:35.587"
+  },
+  {
+    "id": "r15",
+    "round": 15,
+    "name": "阿塞拜疆",
+    "circuit": "Baku",
+    "ref": "RUS 第49圈 1:44.916"
+  },
+  {
+    "id": "r16",
+    "round": 16,
+    "name": "雪邦",
+    "circuit": "Kuala Lumpur",
+    "ref": "VER 第55圈 1:38.220"
+  },
+  {
+    "id": "r17",
+    "round": 17,
+    "name": "新加坡",
+    "circuit": "Marina Bay",
+    "ref": "LEC 第41圈 1:35.202"
+  }
+]
