@@ -4,7 +4,9 @@
 
 ## 运行
 
-```bash
+```PowerShell
+git clone https://github.com/theodorexie42/f1-corner-class.git
+cd f1-corner-class
 npm install
 npm run dev
 ```
@@ -38,10 +40,8 @@ npm run dev
 3. 确认安装成功：
 
 ```powershell
-git clone https://github.com/theodorexie42/f1-corner-class.git
-cd f1-corner-class
-npm install
-npm run dev
+node -v
+npm -v
 ```
 
 4. 回到项目再启动：
